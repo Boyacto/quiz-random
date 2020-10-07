@@ -1,0 +1,4 @@
+usuario: " root "
+contraseña: " "
+(Se copia sin comillas).
+
